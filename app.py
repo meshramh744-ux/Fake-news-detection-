@@ -41,5 +41,4 @@ if st.button("Predict"):
             st.success("✅ True News")
 
 st.markdown("---")
-st.markdown("**Developed By:** Kunal Turkar")
-st.markdown("🔗 GitHub: https://github.com/kunal-ggs/fake-news-detection")  
+st.markdown("**Developed By:** Payal Rahangdale") 
