@@ -100,4 +100,4 @@ else:
 st.caption("ℹ️ Entered text and results are saved in a database for history.")
 
 st.markdown("---")
-st.markdown("**Developed By:** Payal Rahangdale")
+st.markdown("**Developed By:** Himanshu Shankar Meshram")
